@@ -1,4 +1,5 @@
 function twenteReady() {
+  // here we hijack the submitter event
   var el = document.querySelector("#chatboxspan input[type=button]");
   el.setAttribute("onclick", "return sendchat2();");
   
@@ -12,8 +13,15 @@ function sendchat2() {
     sendchat();
 }
 
+function totofy() {
+  // adjust twente to my taste
+  waterfallheight(850);
+  waterfallspeed(1);
+}
+
 // document.addEventListener("DOMContentLoaded", twenteReady, false);
-//window.onload = twenteReady;
+// window.onload = twenteReady;
 
 // it already fires onready??
 twenteReady();
+totofy();
