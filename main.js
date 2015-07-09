@@ -15,8 +15,8 @@ function sendchat2() {
 
 function totofy() {
   // adjust twente to my taste
-  waterfallheight(850);
   waterfallspeed(1);
+  waterfallheight(850);
 }
 
 // document.addEventListener("DOMContentLoaded", twenteReady, false);
