@@ -1,5 +1,4 @@
 # twente-nomath
-i'm not a calculator.
+i'm not a calculator plus improvements
 
-powered by https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija
 greetz to pa3fwm
