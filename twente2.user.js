@@ -9,13 +9,13 @@
 // @homepage       https://github.com/TomHetmer/twente-nomath/
 // ==/UserScript==
 
+function sendchat2() {
+    document.chatform.sum.value = challengesum;
+    sendchat();
+}
+
 (function() {
     'use strict';
-
-    function sendchat2() {
-        document.chatform.sum.value = challengesum;
-        sendchat();
-    }
 
     function totofy() {
         // here we hijack the submitter event
