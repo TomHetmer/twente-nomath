@@ -1,0 +1,15 @@
+{
+   "content_scripts": [ {
+      "exclude_globs": [  ],
+      "exclude_matches": [  ],
+      "include_globs": [  ],
+      "js": [ "script.js" ],
+      "matches": [ "http://websdr.ewi.utwente.nl:8901/*" ],
+      "run_at": "document_idle"
+   } ],
+   "converted_from_user_script": true,
+   "description": "Twente modification script by tCZ.",
+   "key": "XwpHN8vfrMf7hdyfwPtFBwLUs82jS3Gr5FbVqNGw3iY=",
+   "name": "twente",
+   "version": "0.1.22"
+}
