@@ -1,4 +1,4 @@
-# twente-nomath
+# twente-nomath [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 i'm not a calculator plus improvements
 
 greetz to pa3fwm
